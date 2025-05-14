@@ -1,0 +1,11 @@
+.. app.strategies.search_by_org_strategy module
+
+app.strategies.search_by_org_strategy module
+============================================
+
+Implements a strategy to search repositories by GitHub organization.
+
+.. automodule:: app.strategies.search_by_org_strategy
+   :members:
+   :undoc-members:
+   :show-inheritance:

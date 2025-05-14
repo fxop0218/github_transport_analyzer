@@ -1,0 +1,53 @@
+app.strategies package
+======================
+
+Submodules
+----------
+
+app.strategies.base module
+--------------------------
+
+.. automodule:: app.strategies.base
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+app.strategies.search\_by\_org\_strategy module
+-----------------------------------------------
+
+.. automodule:: app.strategies.search_by_org_strategy
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+app.strategies.search\_by\_term\_strategy module
+------------------------------------------------
+
+.. automodule:: app.strategies.search_by_term_strategy
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+app.strategies.search\_strategy module
+--------------------------------------
+
+.. automodule:: app.strategies.search_strategy
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+app.strategies.strategy\_factory module
+---------------------------------------
+
+.. automodule:: app.strategies.strategy_factory
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+Module contents
+---------------
+
+.. automodule:: app.strategies
+   :members:
+   :show-inheritance:
+   :undoc-members:

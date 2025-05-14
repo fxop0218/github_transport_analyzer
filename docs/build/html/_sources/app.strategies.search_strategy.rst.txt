@@ -1,0 +1,11 @@
+.. app.strategies.search_strategy module
+
+app.strategies.search_strategy module
+=====================================
+
+Base interface (abstract class) for all search strategies.
+
+.. automodule:: app.strategies.search_strategy
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,45 @@
+app package
+===========
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   app.strategies
+
+Submodules
+----------
+
+app.cache module
+----------------
+
+.. automodule:: app.cache
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+app.github\_client module
+-------------------------
+
+.. automodule:: app.github_client
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+app.main module
+---------------
+
+.. automodule:: app.main
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+Module contents
+---------------
+
+.. automodule:: app
+   :members:
+   :show-inheritance:
+   :undoc-members:
